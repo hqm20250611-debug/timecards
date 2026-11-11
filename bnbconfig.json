@@ -1,0 +1,10 @@
+{
+  "project": "TIME CARDS",
+  "chain": "BNB Smart Chain",
+  "network": "bsc-mainnet",
+  "chainId": 56,
+  "rpc": "https://bsc-dataseed.bnbchain.org",
+  "explorer": "https://bscscan.com",
+  "mainContract": "0xc5624B61beE1971E6Aa3AB5f403236Ab32C2B6cd",
+  "website": "https://timecards-21h.pages.dev/"
+}

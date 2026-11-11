@@ -1,0 +1,16 @@
+{
+  "name": "timecards-bsc",
+  "version": "1.0.0",
+  "description": "TIME CARDS: fully on-chain timestamp NFTs on BNB Smart Chain (BSC)",
+  "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}

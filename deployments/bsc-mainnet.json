@@ -1,0 +1,14 @@
+{
+  "network": "BNB Smart Chain (BSC) Mainnet",
+  "chainId": 56,
+  "contracts": {
+    "TimeCards": "0xc5624B61beE1971E6Aa3AB5f403236Ab32C2B6cd",
+    "TimeCardsArt": "0xFcBF55830175589Ecba014f75BE507E7835cF585",
+    "ArtData": "0x03666Aa06FC991904991E9C73C71816E3b8B2983"
+  },
+  "deployTx": {
+    "TimeCards": "0xd767875abb78b05720155ec523b9da6dd560c88daec48fb310229947d5c9ffbb",
+    "TimeCardsArt": "0xcede8b1b4356bda34562ea596b773fddbc3ac48af710e18b1ab342d302754438",
+    "ArtData": "0xaa1916244b9649e2015c75ace5dca0d43b482698cdc8553c88f572120422ad6a"
+  }
+}
